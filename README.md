@@ -37,3 +37,4 @@ Two data quality issues were found and corrected during this project:
 
 ## Full Write-Up
 See the full write-up for detailed tables, business recommendations, and the data quality section: `Northwind_SQL_Project_Writeup.pdf`
+<img width="1269" height="952" alt="image" src="https://github.com/user-attachments/assets/7a09a183-fcdb-4946-8a69-dc56614a9618" />
